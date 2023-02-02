@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_AbstractClasses\Lab4_AbstractClasses\bin\Debug\Lab4_AbstractClasses.exe.config
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_AbstractClasses\Lab4_AbstractClasses\bin\Debug\Lab4_AbstractClasses.exe
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_AbstractClasses\Lab4_AbstractClasses\bin\Debug\Lab4_AbstractClasses.pdb
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_AbstractClasses\Lab4_AbstractClasses\obj\Debug\Lab4_AbstractClasses.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_AbstractClasses\Lab4_AbstractClasses\obj\Debug\Lab4_AbstractClasses.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_AbstractClasses\Lab4_AbstractClasses\obj\Debug\Lab4_AbstractClasses.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_AbstractClasses\Lab4_AbstractClasses\obj\Debug\Lab4_AbstractClasses.exe
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_AbstractClasses\Lab4_AbstractClasses\obj\Debug\Lab4_AbstractClasses.pdb
